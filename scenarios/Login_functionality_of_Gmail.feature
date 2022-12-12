@@ -1,6 +1,6 @@
 Feature: Login functionality of Gmail edit from github
 
-Scenario: TC01 - Successful Login to web Gmail
+Scenario: TC01 - Successful Login to web Gmail - update from Jira
 
 Given I am on Login page
 
