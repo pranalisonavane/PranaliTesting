@@ -1,4 +1,4 @@
-Feature: Login functionality of Gmail
+Feature: Login functionality of Gmail edit from github
 
 Scenario: TC01 - Successful Login to web Gmail
 
